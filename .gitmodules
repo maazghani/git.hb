@@ -1,0 +1,6 @@
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = https://github.com/maazghani/ksailnet
+[submodule "deploy"]
+	path = deploy
+	url = https://github.com/maazghani/ksailnet
